@@ -5,4 +5,6 @@
   :license  "BSD"
   :depends-on (:mcclim)
   :serial t
-  :components ((:file "clim-input-test")))
+  :components ((:file "clim-input-test")
+               (:file "clim-input-test-2")
+               (:file "clim-input-test-3")))
