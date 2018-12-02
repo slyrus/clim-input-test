@@ -1,8 +1,4 @@
 
-(cl:defpackage :clim-input-test
-  (:use #:clim-lisp #:clim #:mcclim-bezier)
-  (:export #:clim-input-test))
-
 (cl:in-package :clim-input-test)
 
 (defun values-display (frame pane)
